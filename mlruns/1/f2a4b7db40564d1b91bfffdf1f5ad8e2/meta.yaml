@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/steph/OneDrive/Documents/GitHub/Electical%20grid%20pycaret%20scortch/electical-grid/mlruns/1/f2a4b7db40564d1b91bfffdf1f5ad8e2/artifacts
+end_time: 1638026476351
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: f2a4b7db40564d1b91bfffdf1f5ad8e2
+run_uuid: f2a4b7db40564d1b91bfffdf1f5ad8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638026476175
+status: 3
+tags: []
+user_id: steph
